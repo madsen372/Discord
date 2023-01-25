@@ -1,2 +1,2 @@
 # Discord
-A discord clone.
+A discord clone made, using React, and firebase.
